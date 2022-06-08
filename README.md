@@ -27,8 +27,11 @@ C:\kafka>D:\Softwares\kafka\kafka_2.13-3.2.0\bin\windows\kafka-console-consumer.
 **Place order using APIs:**
 **Success order:**
 ![image](https://user-images.githubusercontent.com/56250128/172539445-b69485c7-e64c-4b35-9ba4-1a0fb5780d2c.png)
+
 ![image](https://user-images.githubusercontent.com/56250128/172539559-111a60c1-1abb-4c74-82f0-9f099ae1f6bf.png)
+
 **Failure order:**
 ![image](https://user-images.githubusercontent.com/56250128/172539646-c19784b5-e26e-45ae-9f96-4a11129f8f92.png)
+
 ![image](https://user-images.githubusercontent.com/56250128/172539666-b2bbdcff-e843-4f29-bfbf-a22c70530217.png)
 
